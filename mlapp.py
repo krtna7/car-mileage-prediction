@@ -15,7 +15,7 @@ from sklearn.ensemble import GradientBoostingRegressor, RandomForestRegressor
 # In[2]:
 
 
-df= pd.read_csv(r"C:\Users\hp\OneDrive\Documents\Auto MPG Reg.csv")
+df= pd.read_csv("Auto MPG Reg.csv")
 
 
 # In[3]:
